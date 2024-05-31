@@ -10,6 +10,3 @@ class Solution:
             if i==number_greater_or_equal:
                 return i
         return -1
-
-            
-
