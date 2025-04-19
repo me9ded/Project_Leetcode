@@ -19,6 +19,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2478-longest-nice-subarray](https://github.com/me9ded/Project_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/me9ded/Project_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/me9ded/Project_Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/me9ded/Project_Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/me9ded/Project_Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -75,6 +76,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/me9ded/Project_Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/me9ded/Project_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
@@ -116,6 +118,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/me9ded/Project_Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/me9ded/Project_Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
@@ -178,4 +181,8 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
