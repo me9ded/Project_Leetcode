@@ -35,6 +35,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3430-count-days-without-meetings](https://github.com/me9ded/Project_Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -134,6 +136,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/me9ded/Project_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/me9ded/Project_Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -227,4 +230,12 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/me9ded/Project_Leetcode/tree/master/2048-build-array-from-permutation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
