@@ -4,3 +4,4 @@ class Solution:
         count=sum((n^k) > n for n in nums)
         return max_sum-(min(abs(n-(n^k)) for n in nums) if count%2 else 0)
         
+        
