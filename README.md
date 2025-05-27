@@ -73,6 +73,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2415-count-the-number-of-ideal-arrays](https://github.com/me9ded/Project_Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/me9ded/Project_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/me9ded/Project_Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/me9ded/Project_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/me9ded/Project_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/3321-type-of-triangle) |
