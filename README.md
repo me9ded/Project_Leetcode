@@ -16,6 +16,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/me9ded/Project_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/me9ded/Project_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/me9ded/Project_Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/me9ded/Project_Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -121,6 +122,7 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/me9ded/Project_Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/me9ded/Project_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -154,6 +156,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/me9ded/Project_Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
@@ -179,6 +182,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/me9ded/Project_Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -266,17 +270,20 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/me9ded/Project_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/me9ded/Project_Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/me9ded/Project_Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Simulation
 |  |
