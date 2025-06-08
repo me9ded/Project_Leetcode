@@ -218,6 +218,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/me9ded/Project_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/me9ded/Project_Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/me9ded/Project_Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -313,4 +314,8 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/me9ded/Project_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
