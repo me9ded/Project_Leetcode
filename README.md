@@ -47,6 +47,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3639-zero-array-transformation-i](https://github.com/me9ded/Project_Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/me9ded/Project_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
