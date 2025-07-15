@@ -119,6 +119,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/me9ded/Project_Leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/me9ded/Project_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/me9ded/Project_Leetcode/tree/master/3396-valid-word) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/me9ded/Project_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
