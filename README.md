@@ -13,6 +13,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0945-snakes-and-ladders](https://github.com/me9ded/Project_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/me9ded/Project_Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/me9ded/Project_Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/me9ded/Project_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/me9ded/Project_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/me9ded/Project_Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -115,6 +116,7 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/me9ded/Project_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/me9ded/Project_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/me9ded/Project_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -257,6 +259,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/me9ded/Project_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/me9ded/Project_Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/me9ded/Project_Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
@@ -371,6 +374,7 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Linked List
 |  |
 | ------- |
