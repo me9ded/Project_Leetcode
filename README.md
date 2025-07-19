@@ -92,6 +92,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/me9ded/Project_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/me9ded/Project_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -180,6 +181,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/me9ded/Project_Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -289,6 +291,7 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -339,6 +342,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/me9ded/Project_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/me9ded/Project_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
