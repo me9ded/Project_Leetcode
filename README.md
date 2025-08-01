@@ -6,6 +6,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/me9ded/Project_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/me9ded/Project_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -237,6 +238,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/me9ded/Project_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
