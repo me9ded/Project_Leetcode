@@ -91,6 +91,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/me9ded/Project_Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/me9ded/Project_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/me9ded/Project_Leetcode/tree/master/0826-soup-servings) |
@@ -199,6 +200,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/me9ded/Project_Leetcode/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/me9ded/Project_Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -321,6 +323,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/me9ded/Project_Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
