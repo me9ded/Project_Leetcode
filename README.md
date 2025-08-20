@@ -16,6 +16,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/me9ded/Project_Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/me9ded/Project_Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/me9ded/Project_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/me9ded/Project_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/me9ded/Project_Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -120,6 +121,7 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/me9ded/Project_Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -267,6 +269,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0826-soup-servings](https://github.com/me9ded/Project_Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/me9ded/Project_Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/me9ded/Project_Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/me9ded/Project_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/me9ded/Project_Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
