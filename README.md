@@ -72,6 +72,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/me9ded/Project_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/me9ded/Project_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -363,6 +365,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -372,6 +375,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
