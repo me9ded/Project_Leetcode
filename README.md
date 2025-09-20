@@ -75,6 +75,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/me9ded/Project_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/me9ded/Project_Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/me9ded/Project_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/me9ded/Project_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/me9ded/Project_Leetcode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +198,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3643-zero-array-transformation-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/me9ded/Project_Leetcode/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -236,6 +239,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/me9ded/Project_Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/me9ded/Project_Leetcode/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -381,6 +385,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2429-design-a-food-rating-system](https://github.com/me9ded/Project_Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/me9ded/Project_Leetcode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -465,4 +470,5 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/me9ded/Project_Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/me9ded/Project_Leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
