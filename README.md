@@ -68,6 +68,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/me9ded/Project_Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -289,6 +290,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/me9ded/Project_Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
@@ -421,6 +423,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/me9ded/Project_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/me9ded/Project_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Queue
