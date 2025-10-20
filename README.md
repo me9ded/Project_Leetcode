@@ -30,6 +30,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1917-maximum-average-pass-ratio](https://github.com/me9ded/Project_Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/me9ded/Project_Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/me9ded/Project_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/me9ded/Project_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/me9ded/Project_Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -161,6 +162,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/me9ded/Project_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/me9ded/Project_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/me9ded/Project_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/me9ded/Project_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/me9ded/Project_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -435,6 +437,7 @@ This repository serves as a personal project showcasing the problems that I've c
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/me9ded/Project_Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/me9ded/Project_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/me9ded/Project_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
