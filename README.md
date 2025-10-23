@@ -137,6 +137,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/me9ded/Project_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +157,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/me9ded/Project_Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/me9ded/Project_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/me9ded/Project_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/me9ded/Project_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -359,6 +362,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2415-count-the-number-of-ideal-arrays](https://github.com/me9ded/Project_Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/me9ded/Project_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -440,6 +444,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/me9ded/Project_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/me9ded/Project_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
