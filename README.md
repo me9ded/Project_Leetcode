@@ -94,6 +94,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1500-count-largest-group](https://github.com/me9ded/Project_Leetcode/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/me9ded/Project_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/me9ded/Project_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/me9ded/Project_Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/me9ded/Project_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/me9ded/Project_Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -125,6 +126,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/me9ded/Project_Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/me9ded/Project_Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/me9ded/Project_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2998-count-symmetric-integers](https://github.com/me9ded/Project_Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -221,6 +223,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0900-reordered-power-of-2](https://github.com/me9ded/Project_Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/me9ded/Project_Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/me9ded/Project_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/me9ded/Project_Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/me9ded/Project_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/me9ded/Project_Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -355,6 +358,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/me9ded/Project_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/me9ded/Project_Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -369,6 +373,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0900-reordered-power-of-2](https://github.com/me9ded/Project_Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/me9ded/Project_Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/me9ded/Project_Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2998-count-symmetric-integers](https://github.com/me9ded/Project_Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
