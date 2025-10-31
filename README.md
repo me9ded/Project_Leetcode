@@ -66,6 +66,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/me9ded/Project_Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/me9ded/Project_Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/me9ded/Project_Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -241,6 +242,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/me9ded/Project_Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/me9ded/Project_Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/me9ded/Project_Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/me9ded/Project_Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/me9ded/Project_Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3643-zero-array-transformation-ii) |
