@@ -43,6 +43,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/me9ded/Project_Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/me9ded/Project_Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-design-a-food-rating-system](https://github.com/me9ded/Project_Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2478-longest-nice-subarray](https://github.com/me9ded/Project_Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -156,6 +157,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1402-count-square-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -460,6 +462,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2048-build-array-from-permutation](https://github.com/me9ded/Project_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/me9ded/Project_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/me9ded/Project_Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/me9ded/Project_Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
