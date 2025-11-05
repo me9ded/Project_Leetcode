@@ -74,6 +74,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3483-alternating-groups-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/me9ded/Project_Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/me9ded/Project_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -112,6 +113,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3242-count-elements-with-maximum-frequency](https://github.com/me9ded/Project_Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/me9ded/Project_Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/me9ded/Project_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/me9ded/Project_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -210,6 +212,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/me9ded/Project_Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
@@ -474,6 +477,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1917-maximum-average-pass-ratio](https://github.com/me9ded/Project_Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/me9ded/Project_Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/me9ded/Project_Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
