@@ -10,6 +10,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/me9ded/Project_Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/me9ded/Project_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/me9ded/Project_Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/me9ded/Project_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/me9ded/Project_Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/me9ded/Project_Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -180,6 +181,7 @@ This repository serves as a personal project showcasing the problems that I've c
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/me9ded/Project_Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/me9ded/Project_Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/me9ded/Project_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -327,6 +329,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [0118-pascals-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/me9ded/Project_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/me9ded/Project_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/me9ded/Project_Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/me9ded/Project_Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/me9ded/Project_Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/me9ded/Project_Leetcode/tree/master/0868-push-dominoes) |
