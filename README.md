@@ -74,6 +74,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/me9ded/Project_Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/me9ded/Project_Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/me9ded/Project_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -114,6 +115,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3227-find-missing-and-repeated-values](https://github.com/me9ded/Project_Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/me9ded/Project_Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/me9ded/Project_Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/me9ded/Project_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -455,6 +457,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/me9ded/Project_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/me9ded/Project_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/me9ded/Project_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -517,11 +520,13 @@ This repository serves as a personal project showcasing the problems that I've c
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/me9ded/Project_Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/me9ded/Project_Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/me9ded/Project_Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
