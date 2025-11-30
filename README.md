@@ -193,6 +193,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/me9ded/Project_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/me9ded/Project_Leetcode/tree/master/3194-find-words-containing-character) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/me9ded/Project_Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/me9ded/Project_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/me9ded/Project_Leetcode/tree/master/3396-valid-word) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -401,6 +402,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [2174-next-greater-numerically-balanced-number](https://github.com/me9ded/Project_Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2998-count-symmetric-integers](https://github.com/me9ded/Project_Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/me9ded/Project_Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/me9ded/Project_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
