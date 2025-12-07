@@ -138,6 +138,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/me9ded/Project_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1500-count-largest-group](https://github.com/me9ded/Project_Leetcode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/me9ded/Project_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/me9ded/Project_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/me9ded/Project_Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/me9ded/Project_Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
