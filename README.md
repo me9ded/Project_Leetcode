@@ -80,6 +80,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/me9ded/Project_Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/me9ded/Project_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/me9ded/Project_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/me9ded/Project_Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -121,6 +122,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/me9ded/Project_Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/me9ded/Project_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/me9ded/Project_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/me9ded/Project_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -201,6 +203,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/me9ded/Project_Leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/me9ded/Project_Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/me9ded/Project_Leetcode/tree/master/3396-valid-word) |
+| [3606-coupon-code-validator](https://github.com/me9ded/Project_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/me9ded/Project_Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/me9ded/Project_Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/me9ded/Project_Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -328,6 +331,7 @@ This repository serves as a personal project showcasing the problems that I've c
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/me9ded/Project_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/me9ded/Project_Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/me9ded/Project_Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3606-coupon-code-validator](https://github.com/me9ded/Project_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/me9ded/Project_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/me9ded/Project_Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
